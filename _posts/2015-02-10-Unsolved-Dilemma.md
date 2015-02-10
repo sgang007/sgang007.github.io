@@ -31,6 +31,7 @@ In the mean time, my knowledge in computer science had become famous in college.
  
  > And I have to be balance all the three, if I were to keep my sanity while working in all three aspects makes me go insane.
  
- ##Conclusion
+ 
+##Conclusion
  
  So, in conclusion, to work in all three fields and still get appreciated for all the three aspects at the same time, I have to do a post-graduation in either Mechatronics/Robotics or related field. Sadly, in India, there is very little scope for Robotics here in post-graduation. Thus the only choice left, qualify GRE and get a branch of choice in a good university abroad or work autonomously and work on a Robotics project which should be good enough so that I could do a start-up and create oppurtunities for myself. Hopefully, in two years, India will have enough scope for robotics to support my start-up
