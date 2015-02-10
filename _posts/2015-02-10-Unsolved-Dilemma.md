@@ -15,11 +15,10 @@ The answer to this lies in the fact that I had no interest in pursuing engeering
 
 >So, here are the justifications that my parents put forward in not letting me choose the careers I loved:
 
->- Film studies: very unstable career, no assurance of success
-- Physics Honors (B.Sc) from St. Xaviers: It would take 5 years to complete the course and even then there are few chances of getting a good job until I do a M.Sc
-- Computer Science (B.Tech) : Computer Science is a very unpredictable market and there are high chances of recession which would result in me being jobless.
-- Electronics & Comm (B.Tech) : Beta, stick to the core branches and you will have a
-lot of chance to do whatever specialization you want in yours Master degree.
+>- **Film studies**: very unstable career, no assurance of success
+- **Physics Honors (B.Sc) from St. Xaviers**: It would take 5 years to complete the course and even then there are few chances of getting a good job until I do a M.Sc
+- **Computer Science (B.Tech)** : Computer Science is a very unpredictable market and there are high chances of recession which would result in me being jobless.
+- **Electronics & Comm (B.Tech)** : Beta, stick to the core branches and you will have a lot of chance to do whatever specialization you want in yours Master degree.
 
 Well, the choice left was either Mechanical or Electrical Engg as I absolutely disliked the rest of the branches. Luck led me to Mechanical Engineering at NIT Jamshedpur. After the first course handouts of Mechanical Engg. was given, its not just mechanics and machines as I had initially thought, the core subjects in this branch included the subjects which I hated the most like Fluid Dynamics, Thermodynamics, Strees-Strain Analysis. I literally skipped this topics when I prepared for my JEE and I landed up in a branch where these were the core subjects.
 Moreover, when I came here I saw people madly in love for Mechanical Engg and it confused me more as I could not relate to them. After some time, I reasoned that most people who take Mechanical Engg do so due to their love for cars and bikes. Well, I never learned how to ride a bike or car so probably, that could be my reason for the lack of interest. I realized I needed to learn how to ride a bike as soon as possible. Finally, my interest in Mechanical Engg spiked when I did the Autonext Summer Training where personnel from TATA Motors demonstrated the internal workings of a car and I.C. Engines. Hands-on work on opening the engine and observing its parts got my curious eyes' attention.
@@ -27,8 +26,8 @@ Moreover, when I came here I saw people madly in love for Mechanical Engg and it
 In the mean time, my knowledge in computer science had become famous in college. So, I thought of trying my luck in Mechatronics as it contains elements of Mechanical, Electronics and Computer Science and it would serve my purpose in the most profitable way. I would get to practice my coding skills, learn hardware design as well as implement knowledge of mechanisms. Nevertheless, my skills in computer science were much better than my aptitude in Mechanical Engg and I got several internships where I developed algorithms for advanced robots. Thus slowly and steadily, even though I tried, the industry and other people kept pushing to computer science. 
 
 >- Thus, in the end, my branch was Mechanical Engineering and I had to study it to maintain a good CGPA. 
- - All my internships and work experience was in Computer Science and I had to keep practicing my coding skills if I were to get any job.
- - And during my free time, I did some circuit designing and hardware simulation as a hobby which was Electronics work.
+- All my internships and work experience was in Computer Science and I had to keep practicing my coding skills if I were to get any job.
+- And during my free time, I did some circuit designing and hardware simulation as a hobby which was Electronics work.
  
  > And I have to be balance all the three, if I were to keep my sanity while working in all three aspects makes me go insane.
  
