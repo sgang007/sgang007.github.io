@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Unsolved Dilemma
+published: true
 ---
 
 For the last three years, I haven't been able to decide, what is my field of interest - mechanical, electronics or computer science. 
