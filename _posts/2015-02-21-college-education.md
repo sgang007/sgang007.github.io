@@ -1,6 +1,6 @@
 ---
 layout: post
-title: College Education is farce or not
+title: College Education is a farce or not ?
 published: true
 ---
 
