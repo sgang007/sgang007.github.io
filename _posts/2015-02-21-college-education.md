@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How useful is college education
-published: true
+published: false
 ---
 
 Aah... this is a question that baffles every teenager but we still haven't arrived at a concrete conclusion.
