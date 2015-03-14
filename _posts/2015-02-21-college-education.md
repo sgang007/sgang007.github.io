@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop running! Start living"
-published: false
+published: true
 ---
 
 Thanks Ishika for reminding me about my blog. This was an incomplete post for long but today I will complete it.
