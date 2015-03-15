@@ -47,12 +47,19 @@ So, we can agree that a college is a group of like minded people and the examina
 The cut-throat competition that has taken lives of many JEE aspirants is a delusion. Its a fake mirage that has been created by all the coaching institutes which have spread like a virus throughout the country. Well, lets see if we can try and understand what caused such an epidemic.
 
 - Many people run this rat race due to peer pressure. 'My friend is preparing for this exam and he would get into this college. If I don't do the same, I will be seperated from my friends and become alone.' 
+
 *Buddy, you will never be alone. Trust me when I tell you this, you will have even better friends in college. As I have said before, the examination system will group people like you in the same college. *
+
 - Ambition of being in the top university of the country. 
+
 *Believe me when I tell you this, colleges are same everywhere. As I have said above, students make their colleges and not vice-versa. If you remain steady, you will get into a college you deserve and all your personal ambition and effort is pointless. And if you get in to one of the top institutes undeservingly, your life will just get a lot worse than you ever imagined. You won't be able to cope up with syllabus there and end up with several backlogs. Worst of all, you won't even have any friends who would understand and feel for you.*
+
 - Myth spread by coaching institutes is major cause for this rat race. The coaching institutes and the media have spread the myth that if you get into an IIT or an IISc or some II(whatever), you will be earning tons of money and get placed easily. 
+
 *Its a complete blatant lie. Company HRs choose very wisely and if they offer a very high salary, it means you deserve it. I know several people who got very good off-campus placements and they were not from any Government college. Also, I had personally seen girls from IIT crying like hell in the placement center because they did not get a job anywhere. Like I said, your life is what you make of it and not your college.*
+
 - Lastly, the biggest reason is family pressure arising due to poor socio-economic condition which puts a huge responsibility on the children to start earning as soon as possible. Studying hard whether you like it or not is the easiest and safest way to start earning soon. 
+
 *This is probably the only justifiable cause for this rat race and it has no immediate solution. The only solution is if the current generation is more responsible towards their family and lower the burden of responsibilities so that future generations might not be a victim of this rate race.*
 
 >So, wherever you are now and wherever you might land up in future is all a result of the choices you are making subconsciously all the time. You can't control it and its pointless trying to do so. Instead try to look at all the positive things around and all the good things your college has, all your friends and all the things you might miss after you leave here. Try to find the true purpose of our life and why you chose your college. With all these thoughts in your mind, finally be happy that you made the right choice. And above all, keep smiling.
