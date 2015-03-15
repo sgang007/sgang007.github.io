@@ -48,7 +48,7 @@ The cut-throat competition that has taken lives of many JEE aspirants is a delus
 
 - Many people run this rat race due to peer pressure. 'My friend is preparing for this exam and he would get into this college. If I don't do the same, I will be seperated from my friends and become alone.' 
 
-*Buddy, you will never be alone. Trust me when I tell you this, you will have even better friends in college. As I have said before, the examination system will group people like you in the same college. *
+*Buddy, you will never be alone. Trust me when I tell you this, you will have even better friends in college. As I have said before, the examination system will group people like you in the same college.*
 
 - Ambition of being in the top university of the country. 
 
