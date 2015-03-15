@@ -10,7 +10,7 @@ Well, when we think about college what comes first to your mind? Is it the cool 
 Whatever comes to your mind first defines what you are and what you want in life. Its the self manifestation of ourselves in our own perspective that defines our future and not some external probing procedure crafted by the so called ingenious people who don't give a damn about you. Ohh...what the hell did I just write?
 In simple words, *you decide your future* and not some competitive exam.
 
-**Now, what makes up a college**
+**Now, what makes up a college?**
 
 A college is not made by the quality of professors it has nor the research work it is doing nor the amazing infrastructure it might or it might not have. A college is made by the students it has and the mentality of the average student in the college reflects the college's image as a whole. 
 
