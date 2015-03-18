@@ -22,7 +22,7 @@ The same guys when they reach senior year, they would tell you how this same col
 
 Well, the college hasn't changed, the students haven't changed then the question is *Why is there a differnce in opnion? What has changed them?*
 
-The answer is simple. Its the students who have changed. Initially, when these guys just looked at their college for the very first time, they only saw the external factors like the college infrastructure, food quality in the mess, clean campus and all that. So, they initially had a very bad opinion about their college as it probably did not meet their expectations. 
+The answer is simple. Its the outlook of the students that have changed. Initially, when these guys just looked at their college for the very first time, they only saw the external factors like the college infrastructure, food quality in the mess, clean campus and all that. So, they initially had a very bad opinion about their college as it probably did not meet their expectations. 
 
 Slowly, as time passed, they adapted themselves to all these discrepancies and started to fit in college with others like them. They made new friends, maybe met their first love, enjoyed doing some crazy stuff and finally, bonded with the college at an emotional level. All because, they found people like them who think more or less alike. 
 >Suffice to say, the majority students in a college have a similar outlook and it reflects the image of the college. A college filled with students who all love to party and have fun will definitely not have a lot of research output. Naturally, a college filled with nerds will have a lesser DJ night culture and more research culture. 
