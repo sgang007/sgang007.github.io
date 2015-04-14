@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cheryl's Birthday problem
+title: "Cheryl's Birthday problem"
 published: true
 ---
 
@@ -46,3 +46,4 @@ Now, Albert says that after hearing Bernard's statement, he knows Cheryll's birt
 
 **So, in conclusion, Cheryl's birthdate is July 16
 
+*Solved by me and Aditya Kumar
