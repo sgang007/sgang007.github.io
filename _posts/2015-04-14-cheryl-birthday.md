@@ -53,3 +53,6 @@ Now, Albert says that after hearing Bernard's statement, he knows Cheryll's birt
 **So, in conclusion, Cheryl's birthdate is July 16**
 
 *Solved by me and Aditya Kumar*
+
+So, the moral of the problem is
+> If someone tells you don't know something, you can learn from that instead of getting depressed because you don't know it.
