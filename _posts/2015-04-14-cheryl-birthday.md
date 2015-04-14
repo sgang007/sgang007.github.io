@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Cheryl's Birthday problem
+published: true
 ---
 
 **The Problem**
