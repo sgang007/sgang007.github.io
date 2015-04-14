@@ -50,6 +50,6 @@ Now, Albert says that after hearing Bernard's statement, he knows Cheryll's birt
 
 > Albert knows only the month. Among the choices left, the only way Albert can tell the birthdate with only the Month is July 16 since there is only one choice in July. If the month was August, then he would have had confusion between August 15 and August 16.
 
-**So, in conclusion, Cheryl's birthdate is July 16
+**So, in conclusion, Cheryl's birthdate is July 16**
 
-*Solved by me and Aditya Kumar
+*Solved by me and Aditya Kumar*
