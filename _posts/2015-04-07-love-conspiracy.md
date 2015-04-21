@@ -11,7 +11,7 @@ In this post, I will try to explain love in my own way. Every person is entitled
 
 There is no doubt of the fact that love deals with people and brings people closer to each other. To understand love, we need to first understand people and how our emotions react to different situations.
 
-#The Romantic Type
+##The Romantic Type
 
 Every person is exposed to a variety of environments during the course of his life. All these environments provide some amount of emotional response within the person. These emotional responses account for all the good and bad experiences he has had in different environments. With each experience, our human mind tries to learn something so that the mind can better deal with the experience in future. The more experiences you have, the more you will learn. Just like the saying: *Wisdom comes with experience*
 
@@ -20,7 +20,7 @@ Suppose, two children are given to do the same task. After doing the task, they 
 
 >So, when we meet someone and realize that he/she possesses some traits or characteristics which cover a major portion of our good books, we immediately start liking him/her. If all the traits that this person has are the same traits you loved previously, you immediately start liking her. This person is your crush or your romantic type.
 
-#The Compromising Type
+##The Compromising Type
 
 We have already established that your love for someone is a very personal choice which depends on your past experiences. So, love is not an instant thing but it is planned by your subconcious mind way before you actually meet your love. 
 
@@ -30,7 +30,7 @@ The solution is that the person who does not get his/her romantic type will comp
 
 > But the truth is that being loved by someone and loving someone irrevocably are not the same. You feel nice that someone cares for you but you are missing the spark of emotions- the feeling of love. Thus, the person who makes this compromise will always be more rational in the relationship and will be a controlling and dominating factor in the relationship. This person is the compromising type.
 
-##The Grand Conspiracy
+#The Grand Conspiracy
 
 In the end, you and your partner will never love each other in the same way. One person will always be dominating and the other person will always be subdued but the levels of this domination and submission will always vary.
 
