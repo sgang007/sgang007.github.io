@@ -37,6 +37,12 @@ In the end, you and your partner will never love each other in the same way. One
 Supposing, you are in love with someone and you are in a healthy relationship with him/her. It has been only possible because your partner gave up searching for his/her love and accepted you by making the compromise. 
 
 Let's take an ideal world where every peron's romantic type is unqiue and everyone has found the people they love. There are 3 couples existing in this world named as Couple1,Couple2,Couple3 as given in the diagram. The arrow shows which person loves whom.
+![](/https://raw.githubusercontent.com/sgang007/sgang007.github.io/master/images/love.png)
+Thus, we can see only half the people i.e. Boy1, Boy2 and Girl3 have found their true love and are in a relationship with them while Girl1, Girl2 and Boy3 have made the compromise.
 
 Thus, if there are 6 billion people in the world and assuming every person has one unique romantic type in some part of the world. Then, only half the people of the world will ever find their true love in an ideal world.
-In reality, there may be 
+
+In reality, there may be two or more persons having the same romantic type and then it depends who approaches first. There could be the case someone's romantic type is already made a compromise with someone else. When all this factors are taken into account, your chances of having a relationship with the person you love reduces drastically to a mere 20 or 30 percent.
+
+>So in conclusion, if you spend your entire life searching for your true love among 6 billion people, the chances that you will find him/her and be in a relationship with the person is a mere 20 percent. Even after that, your love will never be truly happy with you and never love you the same way you do.
+This is the Grand Conspiracy of the world and the illusion spread in the name of love.
