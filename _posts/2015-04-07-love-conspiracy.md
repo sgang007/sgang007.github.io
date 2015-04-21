@@ -5,10 +5,7 @@ published: false
 Every teenager in this world is in search of the magic feeling; that strong emotion that binds the entire universe together;that brings together people and makes life possible. The strong enticing enigma called true love.
 There are so many articles and ideas on this that it is very difficult to relate to all of them.
 
->True Love is a conspiracy. A fail safe mechanism designed by nature to bring different people together in order to maintain the variabality and diversity within a species. 
-
-Flabbergasted! Are you.
-Lets see why I said so.
+In this post, I will try to explain love in my own way. Every person is entitled to his own opinion, so feel free to differ by posting your comments.
 
 There is no doubt of the fact that love deals with people and brings people closer to each other. To understand love, we need to first understand people and how our emotions react to different situations.
 
@@ -17,12 +14,13 @@ There is no doubt of the fact that love deals with people and brings people clos
 Every person is exposed to a variety of environments during the course of his life. All these environments provide some amount of emotional response within the person. These emotional responses account for all the good and bad experiences he has had in different environments. With each experience, our human mind tries to learn something so that the mind can better deal with the experience in future. The more experiences you have, the more you will learn. Just like the saying: *Wisdom comes with experience*
 
 Lets try to understand this with an example:
+Suppose, two children are given to do the same task. After doing the task, they both go and tell their mother about it. The first mother congratulates his son and gives him a chocolate. The little kid loves chocolates and he immediately registers in his mind that the task he had done was good and kept it in his good books. All the while, the second mother rebukes her kid, scolds him for doing the task and gives him a beating. The kid does not like getting a beating so he immediately registers the task in his bad books and learns that the task that he had done was bad. The love for chocolates and fear of beating also was due to some similar incident previously. In the end, all our emotions are based on previous experience and all our life, we keep increasing the list in our good book and the bad book.
 
-There are two young boys and both of them are given two tasks. The first task is to steal from a 
+>So, when we meet someone and realize that he/she possesses some traits or characteristics which cover a major portion of our good books, we immediately start liking him/her. If all the traits that this person has are the same traits you loved previously, you immediately start liking her. This person is your crush or your romantic type.
 
 #The Compromising Type
 
-We have already established that your love for someone is a very personal choice which depends on your past experiences. If someone's character traits make up the majority of traits in your good books, you immediately start liking the other person. So, love is not an instant thing but it is planned by your subconcious way before you actually meet your love. 
+We have already established that your love for someone is a very personal choice which depends on your past experiences. So, love is not an instant thing but it is planned by your subconcious mind way before you actually meet your love. 
 
 Now, the problem is what if you do not fall in the good books of your love or you are not the type your partner desires. This is seldom the case because meeting your romantic type and having all the qualities of your partner's romantic type is highly improbable as each person's romantic type is very unique.
 
