@@ -31,3 +31,12 @@ The solution is that the person who does not get his/her romantic type will comp
 > But the truth is that being loved by someone and loving someone irrevocably are not the same. You feel nice that someone cares for you but you are missing the spark of emotions- the feeling of love. Thus, the person who makes this compromise will always be more rational in the relationship and will be a controlling and dominating factor in the relationship. This person is the compromising type.
 
 ##The Grand Conspiracy
+
+In the end, you and your partner will never love each other in the same way. One person will always be dominating and the other person will always be subdued but the levels of this domination and submission will always vary.
+
+Supposing, you are in love with someone and you are in a healthy relationship with him/her. It has been only possible because your partner gave up searching for his/her love and accepted you by making the compromise. 
+
+Let's take an ideal world where every peron's romantic type is unqiue and everyone has found the people they love. There are 3 couples existing in this world named as Couple1,Couple2,Couple3 as given in the diagram. The arrow shows which person loves whom.
+
+Thus, if there are 6 billion people in the world and assuming every person has one unique romantic type in some part of the world. Then, only half the people of the world will ever find their true love in an ideal world.
+In reality, there may be 
