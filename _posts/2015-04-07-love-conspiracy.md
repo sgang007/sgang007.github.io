@@ -37,7 +37,10 @@ In the end, you and your partner will never love each other in the same way. One
 Supposing, you are in love with someone and you are in a healthy relationship with him/her. It has been only possible because your partner gave up searching for his/her love and accepted you by making the compromise. 
 
 Let's take an ideal world where every peron's romantic type is unqiue and everyone has found the people they love. There are 3 couples existing in this world named as Couple1,Couple2,Couple3 as given in the diagram. The arrow shows which person loves whom.
-![](/https://raw.githubusercontent.com/sgang007/sgang007.github.io/master/images/love.png)
+
+![love](/images/love.png)
+
+
 Thus, we can see only half the people i.e. Boy1, Boy2 and Girl3 have found their true love and are in a relationship with them while Girl1, Girl2 and Boy3 have made the compromise.
 
 Thus, if there are 6 billion people in the world and assuming every person has one unique romantic type in some part of the world. Then, only half the people of the world will ever find their true love in an ideal world.
