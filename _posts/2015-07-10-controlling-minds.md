@@ -1,8 +1,8 @@
 ---
-published: false
+layout: post
+title: Charisma: Art of Manipulation and Influence
+published: true
 ---
-
-## Charisma: Art of Manipulation and Influence
 
 Everyone of us has seen Professor X controlling everyone's minds in X-men. What if I tell you such a thing is possible is no fiction and is very much possible in real life.
 If you have come across a strong personality, you know what I mean. Some people with their charisma and gaze have such a hold of other people's mind that they can easily influence anyone. That is the mental power of a person.
