@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Charisma: Art of Manipulation and Influence"
+title: "Charisma: Art of Influence"
 published: true
 ---
 
 
-Everyone of us has seen Professor X controlling everyone's minds in X-men. What if I tell you such a thing is possible is no fiction and is very much possible in real life.
+
 If you have come across a strong personality, you know what I mean. Some people with their charisma and gaze have such a hold of other people's mind that they can easily influence anyone. That is the mental power of a person.
 
 And you know what the biggest secret is? This power is hidden inside everyone and waiting to be released. Lets talk about how you can unleash this power.
@@ -13,7 +13,7 @@ And you know what the biggest secret is? This power is hidden inside everyone an
 
 Well, first of all you need to improve your lifestyle so that your mind has full control of all your actions. Most of us are emotional with many things in life and these emotions makes us to irrational and impromptu decisions sometime. Controlling these emotions and guiding them to your benefit can give your mind full control of your life. Well, after all if you can't control yourself how can you ever control other.
 
-- **Know thyself**
+- **Know yourself**
 
 On an average, more than a million thoughts races across the human mind in less than a second. Controlling, segrating and understanding these thoughts is no easy task and requires a great deal of practice. So, I will tell about some rules which if you follow will help you to understand yourself.
 
@@ -38,7 +38,7 @@ Start by talking to your subject on the most common and yet very debatable topic
 But this is just the peripheral personality of the person and every person has a hidden personality which contributes more to their entire thought process. And you need to learn this hidden personality, if you want to know him well. But he won't tell you, so you need to push his limits. Make him do the things he normally wouldn't and tell him things that he wouldn't expect from you. Bring all elements of surprise to him and see how he reacts and from his reactions, you can determine the causes of such reactions and push him more to see if the causes you guessed are correct.
 > After some time, you will know this person like you know yourself. You can close your eyes and imagine the reaction of this person in a particular situation and push him to such a situation and see if the reaction you imagined is actually correct. Very soon, you will be fairly confident about all the hidden traits and entire personality of this person. 
 
-- **Controlling others**
+- **Influencing others**
 Now that you know your subject so well, you can very easily control all his actions and his entire personality. The only problem is every mature person has some kind of personal space in their mind and when you are trying to manipulate him, you are actually invading his personal space and immediately the person will be alert to your manipulation and all your hard-work will go down the drain. So you have to invade his personal space without his knowledge and how to do that?
 
 The person whom you are manipulating will only understand that you are trying to 
