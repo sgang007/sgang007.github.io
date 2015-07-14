@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moksha: Search for God
+title: "Moksha: Search for God"
 published: true
 ---
 
