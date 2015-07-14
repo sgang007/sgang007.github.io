@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Moksha: Search for God
+published: true
 ---
 
 For centuries, we have always wondered and be amazed by the concept of an omnipresent, omniscient and omnipotent God whose power is responsible for the existence of our universe. And people who are amazed by this concept keep pursuing this for decades until they fade into oblivion. But no one till date has been able to prove the existence of such a power and we have always been known to be the masters of our own fate. This is has been the longest and most endearing research project of mankind and it has no concludable answers till date.
