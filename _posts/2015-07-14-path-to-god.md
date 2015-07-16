@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 For centuries, we have always wondered and be amazed by the concept of an omnipresent, omniscient and omnipotent God whose power is responsible for the existence of our universe. And people who are amazed by this concept keep pursuing this for decades until they fade into oblivion. But no one till date has been able to prove the existence of such a power and we have always been known to be the masters of our own fate. This is has been the longest and most endearing research project of mankind and it has no concludable answers till date.
 
 The simple reason for this is because we have been looking in the wrong place. While we have been looking for an all powerful source of creation in the microscopic universe to the distant galaxies, the real God power resides within us and each living being on this planet holds a potential to become this omnipotent, omnipresent, omniscient source. The only way we are going to become this person is through the journey or the path to God. It is this lifelong search for God through which we truly become a source of knowledge, wisdom and power. 
@@ -30,4 +31,39 @@ But the thing about emotions is that the reverse can also be true and there is n
 >In due course, we realize God is something universal and neither logic nor emotions can explain God. While with the logical mind, we can understand our most innate characteristics and basic urges, with the emotional mind, we can understand our true nature and personality as a whole. We can now understand why we think the way we do. Now, the next question is why do we have such emotions and why are emotions different to different people. Does this mean that with each unique set of emotions, each person has a unique purpose in life?
 
 - **The Spiritual Mind- phase of knowledge**
-After we have the ability to undestand ourselves and others, we will realize that everything that we do and everyone that we interact with is in some way changing the future dynamically. All our actions is in some way affecting us and everyone we know. I don't have a profound logical explaination for this but if you look for it, you will observe it too.
+After we have the ability to undestand ourselves and others, we will realize that everything that we do and everyone that we interact with is in some way changing the future dynamically. All our actions is in some way affecting us and everyone we know. I don't have a profound logical explaination for this but if you look for it, you will observe it too. 
+
+One way to observe this link and universal nature of the world is with a simple experiment that you can do. On a particulary, suddenly you do something that you did not intend to or which is way out of your ordinary routine and you observe how the events of the day are panning out because of your choice. You will notice that a vast number of odd things have happened that day and if you carefully try to fit all of them together- you will realize it all resulted because of the choice you made. For example, one day purposely and suddenly do not to go to college and then observe the events going on that day. Suppose, hypothetically, when you did not go to class, seeing you and getting inspired from you - some of your friends also stayed back and when the teacher came saw the low attendance and decided to take a test to teach everyone a lesson. The test went on more than usual and the teacher was late to catch the last bus to his home. Since the teacher reached home late, some more things happened and the entire course of events for that day for everyone changed suddenly. Supposing you had decided to go to class, your friends would have followed, the teacher would not have taken the test and he would have left early and caught the last bus and reached home in time. 
+
+>So, for every decision that you are taking you are not only affecting yourself but the entire world as a whole. You are continuously changing the future without your knowledge and you can never avoid it. And so you realize that the entire universe though divided among different categories, it is actually one big interlinked entity that is pulsating continuously and for each small change each living thing is making which is changing the course of the entire universe and this single entity as a whole.
+
+So, if you want something desperately in life and you make the right choices in life, your choices will somehow contribute in such a way that the future gravitates towards you attaining what you want. The universe is continuously changing to give everybody what they want.
+
+- **The Divine Mind - phase of reconcilation**
+
+After you can see the entire world and all its good and evil as a part of one big entity, you can no longer be afraid of anything because you will realize good and evil are part of the same manifestation and they are all same. It is just people who have classified certain things as good and other things as evil. There is no good and there is no evil because they are all parts of the same entity.
+
+So, now the final question is what is this universal truth?
+
+When you can see the entire world as one single universal entity, you can observe the world like you observe the motion of a simple bouncing ball. Like a ball moves downward hits the ground and bounces back and then returns and slowly goes to rest. Once you have this vision, you can also observe the entire world in a similar way and how the entire world is changing by each action that you are taking and then you will realize which action is best for you and what should you do to get what you want.
+
+> In this divine mind, you can close your eyes and see more than with your eyes open. You can see how the 9/11 attacks changed the course of history and how it has been beneficial for the development of India. You can see how the greatest discoveries of the world are simple falasies and you can understand the truth about everything you want to see. It is at this point, when the past - present and future are like one single channel flow of time across ages and each step is a prelude to the next. And how everything is detined because of the unique set of desires every person in this world has.
+
+This is an amazing sight. It is at this point that you realize you are capable of anything and everything you can dream of. You can watch any thing you want to see and you know how the future is progessing and you know how your actions are effecting the future. So, by choosing your actions wisely- you can control the future of the entire universe. Thus by definition, you are God. Tjough, I frankly believe, it is an overhyped word.
+
+- **Moksha - the final reunion**
+
+Once you have these amazing newfound powers you will have achieved everything you ever wanted and have seen all that you needed to see- your cup of desire is now full. Your heart will satisfied and you require nothing except peace.
+The only motivation in your life now is for the betterment of humankind. You will want to spread this knowledge and reveal this truth to everyone but you can't. 
+
+You cannot reveal the truth because the truth is so convoluted that only people who have traversed this path will truly understand. There will be some people who will ignore you blatantly and some others who will follow you blindly. But neither of them will have either the patience or the strength to follow this path that you have followed. And the few people who has the strength to discover will ultimately discover it with or without your help.
+
+>It is then you will realize the pointlessness of your existence. Your existence merely served the purpose of preventing the universe from going to a stagnant mode. You only helped the future to change but you cannot control the future you want. Even how hard you try. Finally, you will sit down and reflect on all your actions and decisions that you have made and the causes for your actions and the future that resulted from your decision. You can now see your entire life in front of you - the past, present and future. With this thought and visions in mind, you will lose interest in everything and slowly get lost into oblivion. You will create an imaginary world of perfection and live in it while losing all touch with the physical plane. 
+
+Just close your eyes in a very comfortable place and try understanding yourself and then understand others and then understand others. By understand, I don't mean to be compassionate but be understanding while trying to look from a different perspective. In no time, you will be on correct path.
+
+This ends my long and complicated post.
+Close your eyes and arrange all the things I said one after the other until you form an entire idea of what I mean by the words I wrote. And when you get a good idea of my thoughts, place yourself and design a path for yourself to get what you want. See where you are in this path. Choose the next step wisely and keep following this path you set for yourself.
+
+*Please note, all the terms used in this post like divine mind, spiritual mind, moksha and other terms have no relevant meaning in my personal opinion. I used this terms specifially so that my readers can realate to what I am saying. But please don't be dissuaded by a pre-built opinion or prejudice on this concepts or words. They are just words and hold meaning only when you attach meaning to them.*
+
