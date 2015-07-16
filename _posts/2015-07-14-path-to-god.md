@@ -12,7 +12,7 @@ The simple reason for this is because we have been looking in the wrong place. W
 
 Whatever I said till now was just mere philosophy which might appeal some people, most people will definitely not concur with it until a logical and sound argument is provided of whatever philosophy I just said. Now, I will try to tell my views and experiences in my search for God.
 
-In our search for God, each day our brain learns and develops some new things until we reach the truth. With each new development, our understanding of the world changes and we each day we face more question than we solved. And through this quest, we pass through different phases in our personality until we meet our destiny.
+In our search for God, each day our brain learns and develops some new things until we reach the truth. With each new development, our understanding of the world changes and we each day face more questions than we have solved. And through this quest, we pass through different phases in our personality until we meet our destiny.
 
 - **The Logical Mind - phase of questioning**
 
