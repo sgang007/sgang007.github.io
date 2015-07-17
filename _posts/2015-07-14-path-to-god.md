@@ -50,7 +50,7 @@ When you can see the entire world as one single universal entity, you can observ
 
 > In this divine mind, you can close your eyes and see more than you can with your eyes open. You can see how the 9/11 attacks changed the course of history and how ultimately it has been beneficial for the development of India. You can see how the greatest discoveries of the world are simple falasies which went on to deteriorationg the world and you can understand the raw- bitter truth about everything you like to see. It is at this point, when the past - present and future are like one single channel flow of time across ages and each step is a prelude to the next. And how everything is destined because of the unique set of desires every person in this world has at every moment of time.
 
-This is an amazing sight. It is at this point that you realize you are capable of anything and everything you can dream of. You can watch any thing you want to see and you know how the future is progessing and you know how your actions are effecting the future. So, by choosing your actions wisely- you can control the future of the entire universe. Thus by definition, you are God. Though, I frankly believe, it is an overhyped word.
+This is an amazing sight. Finally, you realize you are capable of anything and everything you can dream of. You can watch any thing you want to see and you know how the future is progessing and you know how your actions are effecting the future. So, by choosing your actions wisely- you can control the future of the entire universe. Thus by definition, you are God. Though, I frankly believe, it is an overhyped word.
 
 - **Moksha - the final reunion**
 
