@@ -9,17 +9,25 @@ So, to complete my idea of Life and bring forth an element of elegance, I am put
 
 
 >If life was like a viking ship and the universe the sea,
-If the world with all its bitter berries and better butters,
+And I could sail away the horizon until I reach the sands of time;
+I would then be dreaming away to loiter in a limitless paradise,
+And lose myself in an unconscious world
+Without any knowledge of life and death.
+
+>But if the world with all its bitter berries and better butters,
 Suddenly stares at me in my weakest moment..
 When I am treading under the wings of my utopia,
 When I am alone and pondering in my mind 
-Of rash impudency and childish precociousness;
+Of rash impudency and childish callowness;
 My dandy looks are immature then, to my bevelled thoughts.
 
 >Suddenly, something strikes me like thunder from the sky
 And I look up to the heavens for guidance.
+As the bile fills my stomach and I,
+in fear of the unknown, only pray that I may evade the storm.
 
 >But the pungent truth bitters my rosy tongue
+As the universe tears apart my chastity;
 And I am left in solitude with the blank ceiling mocking at me;
 And I staring hard into his gaping holes
 Makes me realize one of so many mistakes,
