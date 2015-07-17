@@ -6,6 +6,7 @@ published: true
 
 
 
+
 For centuries, we have always wondered and be amazed by the concept of an omnipresent, omniscient and omnipotent God whose power is responsible for the existence of our universe. And people who are amazed by this concept keep pursuing this for decades until they fade into oblivion. But no one till date has been able to prove the existence of such a power and we have always been known to be the masters of our own fate. This is has been the longest and most endearing research project of mankind and it has no concludable answers till date.
 
 The simple reason for this is because we have been looking in the wrong place. While we have been looking for an all powerful source of creation in the microscopic universe to the distant galaxies, the real God power resides within us and each living being on this planet holds a potential to become this omnipotent, omnipresent, omniscient source. The only way we are going to become this person is through the journey or the path to God. It is this lifelong search for God through which we truly become a source of knowledge, wisdom and power. 
@@ -20,7 +21,7 @@ Our most primitive mindset and our basic intelligence is governed by our surviva
 
 >As a result of this fight for survival, we develop a keen sense of our logical mind. We start thinking in terms of black and white - we divide the entire world into things that are right and should be done and things that are wrong that shouldn't be done. 
 
-We categorize things based on the logic whether something will help us in our survival or not. Things that will help us are the right things and things that will not help us are wrong. For example, studying for your exams, getting a good marks, doing a good job, living a stable life and caring for your family are all the correct things and the opposite of all these are the bad things that shouldn't be done. *Making the correct choices and how fit you are survival shows how intelligent you are and this is the logical mind, which is measured by someone's IQ.*
+We categorize things based on the logic whether something will help us in our survival or not. Things that will help us are the right things and things that will not help us are wrong. For example, studying for your exams, getting a good marks, doing a good job, living a stable life and caring for your family are all the correct things and the opposite of all these are the bad things that shouldn't be done. *Making the correct choices and how fit you are for survival shows how intelligent you are and this is the logical mind, which is measured by someone's IQ.*
 
 - **The Emotional Mind - phase of understanding**
 
@@ -68,4 +69,3 @@ This ends my long and complicated post.
 Close your eyes and arrange all the things I said one after the other until you form an entire idea of what I mean by the words I wrote. And when you get a good idea of my thoughts, place yourself and design a path for yourself to get what you want. See where you are in this path. Choose the next step wisely and keep following this path you set for yourself.
 
 *Please note, all the terms used in this post like divine mind, spiritual mind, moksha and other terms have no relevant meaning in my personal opinion. I used this terms specifially so that my readers can realate to what I am saying. But please don't be dissuaded by a pre-built opinion or prejudice on this concepts or words. They are just words and hold meaning only when you attach meaning to them.*
-
