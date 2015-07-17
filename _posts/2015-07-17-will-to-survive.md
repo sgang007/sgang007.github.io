@@ -21,7 +21,7 @@ So, to complete my idea of Life and bring forth an element of elegance, I am put
 
 >Without any knowledge of life and death.
 
-
+\n
 
 >But if the world with all its bitter berries and better butters,
 
@@ -35,7 +35,7 @@ So, to complete my idea of Life and bring forth an element of elegance, I am put
 
 >My dandy looks are immature then, to my bevelled thoughts.
 
-
+\n
 
 >Suddenly, something strikes me like thunder from the sky
 
