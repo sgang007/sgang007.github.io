@@ -21,4 +21,4 @@ Obviously, I love watching movies and listening to music. My taste varies but mo
 
 ### Contact me
 
-[shubhojyoti@aurobots.com](mailto:shubhojyoti@aurobots.com)
+[shubhojyoti@live.com](mailto:shubhojyoti@live.com)
