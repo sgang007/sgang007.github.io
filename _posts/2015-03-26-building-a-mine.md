@@ -28,6 +28,7 @@ Now, based on the action are you striving to your goal and have you won? If not,
 #Winning the correct way
 
 Winning is very important. It gives people confidence to do things that he might have not known was possible for him. It raises his own self image and makes him more confident which helps him to win more. 
+
 But what is more important is winning and helping others to win as well. This is the notion of winning the correct way. Unless you win the correct way, all your spoils of the game are pointless.
 
 Elements of winning the correct way:
