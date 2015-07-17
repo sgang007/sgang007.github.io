@@ -2,6 +2,7 @@
 published: false
 ---
 
+
 In this fast paced world, we are continuously making targets and planning to achieve them. We are always running to achieve something or the other. In our pursuit, we have forgotten to live life like it is and are existing under an illision that is far from reality.
 
 To make things worse, we have very few people around us who can guide us to the correct path and help us differentiate the fact from the faction.
@@ -13,10 +14,12 @@ With all these questions in mind, we strive forward to make the correct decision
 
 Close your eyes and imagine yourself lying in your death bed in an hospital fighting cancer and you know that you will be dead within the week. Do you have any regrets? What are the things that you regret not having done in your life?
 
-Is it you have not spend enough time with your family.
-Is it that you have not secured the future of your family and not fulfilled your responsibilities
-Is it that you have not made use of your life in any way.
-Is it that you have not contributed to the benefit of mankind.
+Have you not spend enough time with your family?
+Have you not secured the future of your family and not fulfilled your responsibilities?
+Have you not made use of your life in any way?
+Have you not contributed to the benefit of mankind?
+
+Which is the regret that haunts you the most?
 
 Based on your choice, now think what could you have done so that you will not have that regeret. This is your action that you should do now.
 
