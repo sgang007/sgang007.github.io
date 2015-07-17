@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "The Will to Survive"
+title: The Will to Survive
 published: true
 ---
+
 
 I wrote this poem a long time back during my first semester in college in a state of mind when I was lonely, depressed and frustrated with everything in life. I showed this poem to several people at that time and everyone liked it mostly because of its poetic appeal. But yesterday after writing my post on 'Moksha', I remembered this poem I had once written and now looked at it from a whole new different angle. I had these concepts of life in my subconscious mind long back but yesterday, I could construct it and represent them in a way by which most people could understand. 
 So, to complete my idea of Life and bring forth an element of elegance, I am putting up this lost poem in my blog today.
@@ -11,10 +12,12 @@ So, to complete my idea of Life and bring forth an element of elegance, I am put
 
 
 >If life was like a viking ship and the universe the sea,
-And I could sail away the horizon until I reach the sands of time;
-I would then be dreaming away to loiter in a limitless paradise,
-And lose myself in an unconscious world
-Without any knowledge of life and death.
+
+>And I could sail away the horizon until I reach the sands of time;
+
+>I would then be dreaming away to loiter in a limitless paradise,
+>And lose myself in an unconscious world
+>Without any knowledge of life and death.
 
 >But if the world with all its bitter berries and better butters,
 Suddenly stares at me in my weakest moment..
@@ -40,4 +43,3 @@ That to every love, there is hate;
 That where there is death, there is life;
 And good and evil are manifestations of a simple truth;
 The will to survive.
-
