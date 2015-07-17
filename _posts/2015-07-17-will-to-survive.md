@@ -12,7 +12,6 @@ So, to complete my idea of Life and bring forth an element of elegance, I am put
 
 
 >If life was like a viking ship and the universe the sea,
-
 >And I could sail away the horizon until I reach the sands of time;
 
 >I would then be dreaming away to loiter in a limitless paradise,
