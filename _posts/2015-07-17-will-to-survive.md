@@ -21,8 +21,6 @@ So, to complete my idea of Life and bring forth an element of elegance, I am put
 
 >Without any knowledge of life and death.
 
-- 
-
 >But if the world with all its bitter berries and better butters,
 
 >Suddenly stares at me in my weakest moment..
@@ -35,8 +33,6 @@ So, to complete my idea of Life and bring forth an element of elegance, I am put
 
 >My dandy looks are immature then, to my bevelled thoughts.
 
--  
-
 >Suddenly, something strikes me like thunder from the sky
 
 >And I look up to the heavens for guidance.
@@ -44,8 +40,6 @@ So, to complete my idea of Life and bring forth an element of elegance, I am put
 >As the bile fills my stomach and I,
 
 >in fear of the unknown, only pray that I may evade the storm.
-
-
 
 >But the pungent truth bitters my rosy tongue
 
