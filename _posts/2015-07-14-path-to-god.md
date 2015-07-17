@@ -21,7 +21,7 @@ Our most primitive mindset and our basic intelligence is governed by our surviva
 
 >As a result of this fight for survival, we develop a keen sense of our logical mind. We start thinking in terms of black and white - we divide the entire world into things that are right and should be done and things that are wrong that shouldn't be done. 
 
-We categorize things based on the logic whether something will help us in our survival or not. Things that will help us are the right things and things that will not help us are wrong. For example, studying for your exams, getting a good marks, doing a good job, living a stable life and caring for your family are all the correct things and the opposite of all these are the bad things that shouldn't be done. *Making the correct choices and how fit you are for survival shows how intelligent you are and this is the logical mind, which is measured by someone's IQ.*
+We categorize things based on the logic whether something will help us in our survival or not. Things that will help us are the right things and things that will not help us are wrong. For example, studying for your exams, getting a good marks, doing a good job, living a stable life and caring for your family are all the correct things and the opposite of all these are the bad things that shouldn't be done. *Making the correct choices and how fit you are for survival shows how intelligent you are. This is a person's logical mind, which is measured by the Intelligent Quotient (IQ).* Having a good IQ helps us to make rational decisions and logical choices so that we can have the maximum gain in this fight for survival.
 
 - **The Emotional Mind - phase of understanding**
 
