@@ -278,7 +278,12 @@ nav {
   background-color: $lightGray;
 }
 .verticalLine{
-    border-right: thick solid #ff0000;
+  width: 1px;
+  background-color: silver;
+  height: 100%;
+  float: left;
+  border: 2px ridge silver ;
+  border-radius: 2px;
 }
 
 footer {
