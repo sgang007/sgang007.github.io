@@ -277,7 +277,9 @@ nav {
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
-
+.verticalLine {
+    border-left: thick solid #ff0000;
+}
 footer {
   padding: 20px 0;
   text-align: center;
