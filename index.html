@@ -21,13 +21,13 @@ layout: default
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
-      <img src="/images/left_arrow.png">
+      <img src="/images/left_arrow.png" align="left">
     </a>  
   {% endif %}  
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">
      
-      <img src="/images/right_arrow.png">
+      <img src="/images/right_arrow.png" align="right">
     </a>  
   {% endif %}
 </div>
