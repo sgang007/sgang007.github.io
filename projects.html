@@ -1,20 +1,16 @@
 ---
-layout: default
+layout: page
 ---
 
 <h1>This is the projects page</h1>
 
- <div class="posts">
-  {% for project in site.projects %}
-    <article class="project">    
-      
-      <h1><a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h1>
+<ul>
+{% for project in site.data.projects %}
+  <li>
+    <a href="https://github.com/{{ project.github }}">
+      {{ project.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
 
-      <div class="entry">
-        {{ project.content | truncatewords:40}}
-      </div>
-      
-      <a href="{{ site.baseurl }}{{ project.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
