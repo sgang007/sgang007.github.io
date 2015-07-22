@@ -278,7 +278,8 @@ nav {
   background-color: $lightGray;
 }
 .verticalLine{
-  border-left: thick solid #000000;
+  border-style: solid;
+  border-right: thick double #000000;
 }
 
 footer {
