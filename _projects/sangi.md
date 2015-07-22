@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Test Site"
+published: true
+---
+
 ## This is a simple post
 to see if this works
 
