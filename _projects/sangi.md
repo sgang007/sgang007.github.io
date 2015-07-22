@@ -4,7 +4,7 @@ title: "Test Site"
 published: true
 ---
 
-## This is a simple post
+## {{page.title}}
 to see if this works
 
 **Sangi is one of the most useful projects till date**
