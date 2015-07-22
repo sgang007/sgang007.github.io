@@ -278,12 +278,10 @@ nav {
   background-color: $lightGray;
 }
 .verticalLine{
-  width: 1px;
-  background-color: silver;
-  height: 100%;
+  width: 1px; /* Line width */
+  background-color: black; /* Line color */
+  height: 100%; /* Override in-line if you want specific height. */
   float: left;
-  border: 2px ridge silver ;
-  border-radius: 2px;
 }
 
 footer {
