@@ -3,8 +3,27 @@ layout: page
 ---
 
 <h1>This is the projects page</h1>
-
 <ul>
+{% for project in site.data.projects %}
+  <li>
+    <h3>{% if project.link %}<a href="{{ project.link }}">{{ project.title }}</a>{% else %}{{ project.title }}{% endif %}</h3>
+    {{ project.content }}
+    {% if project.github or project.categories %}
+    <ul class="metadata">
+      {% if project.github %}<li><a href="{{ project.github }}">GitHub</a></li>{% endif %}
+      <li>{{ project.categories | join:', ' }}</li>
+    </ul>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+
+{% for project in site.project_details %}
+  <h1>{{project.name}}</h1>
+  <p>{{project.content}}</p>
+
+{% endfor %}
+<!-- <ul>
 {% for project in site.data.projects %}
   <li>
     <a href="{{site.baseurl}}{{ project.github }}">
@@ -12,5 +31,5 @@ layout: page
     </a>
   </li>
 {% endfor %}
-</ul>
+</ul> -->
 
