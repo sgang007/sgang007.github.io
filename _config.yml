@@ -47,7 +47,9 @@ baseurl: ""
 
 #Definition of collection for maintain project files
 collections:
- - project_details  
+ project:
+  output: true
+  layout: default
 
 #
 # !! You don't need to change any of the configuration flags below !!
