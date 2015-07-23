@@ -3,7 +3,7 @@ layout: page
 ---
 
 <h1>This is the projects page</h1>
-<ul>
+<!-- <ul>
 {% for project in site.data.projects %}
   <li>
     <h3>{% if project.link %}<a href="{{ project.link }}">{{ project.title }}</a>{% else %}{{ project.title }}{% endif %}</h3>
@@ -16,7 +16,7 @@ layout: page
     {% endif %}
   </li>
 {% endfor %}
-</ul>
+</ul> -->
 
 {% for project in site.project_details %}
   <h1>{{project.name}}</h1>
