@@ -45,6 +45,10 @@ url: http://sgang007.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+#Definition of collection for maintain project files
+collections:
+ - project_details  
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
