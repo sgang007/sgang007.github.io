@@ -1,3 +1,12 @@
+- title: "Gaitoraid"
+  link: gaitoraid
+  categories:
+  - Image segmentation
+  - Neural Networks
+  - Time Series
+  - Dynamic Kernels
+  content: Machine Learning pipeline to recognize patterns in the gait cycle of a person and re-identify the person in subsequent time frames even in presence of occlusion done in real time.
+  
 - title: "Sangi1.0"
   link: sangi1.0
   categories:
