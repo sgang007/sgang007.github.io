@@ -1,10 +1,10 @@
-- title: "Dummy project"
-  link: http://www.example.com
+- title: "Sangi1.0"
+  link: sgang007.github.io/sangi1.0
   categories:
-  - Jekyll
-  - Dummy
-  - Project
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt …
+  - Indoor Navigation
+  - SLAM
+  - Blind Robots
+  content: Low cost indoor navigation wihtout using vision or laser scanners built from open source hardware. Independent Project funded by anonymous sources.
 
 - title: "Jekyll projectlist plug-in"
   link:
