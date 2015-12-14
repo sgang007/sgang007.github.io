@@ -11,7 +11,7 @@ layout: page
     {% if project.github or project.categories %}
     <ul class="metadata">
       {% if project.github %}<li><a href="{{ project.github }}">GitHub</a></li>{% endif %}
-      <li>{{ project.categories | join:', ' }}</li>
+      <li><em></em>{{ project.categories | join:', ' }}</em></li>
     </ul>
     {% endif %}
   </li>
