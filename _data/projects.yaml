@@ -22,3 +22,12 @@
   - Kivy
   - Machine Learning
   content: This project contains a framework for submitting the standard coursera assignments for the Machine Learning Course in Python. This allows learners to explore scipy, panda and other powerful python libraries while submitting the assignments. A cross platform GUI is built using Kivy on top of this base interface which makes assignment submission and completion mobile friendly.
+
+- title: "Auroman"
+  link: http://projectauroman.blogspot.in/
+  categories:
+  - SLAM
+  - ROS
+  - Embedded Electronics
+  - LIDAR
+  content: Developed At BARC, Mumbai, this robot senses the environment using a 270 degree Hokuyo Laser scanner and localizes itself in an unknown environment using AMCL. It finally autonomously navigates in indoor environments using an A* path planning algorithm where heuristics. 
