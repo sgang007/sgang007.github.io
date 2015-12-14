@@ -6,11 +6,10 @@
   - Blind Robots
   content: Low cost indoor navigation wihtout using vision or laser scanners built from open source hardware. Independent Project funded by anonymous sources.
 
-- title: "Jekyll projectlist plug-in"
-  link:
-  download: https://github.com/fhemberger/jekyll-projectlist/zipball/master
-  github: http://github.com/fhemberger/jekyll-projectlist
+- title: "Coursera Machine Learning in Python"
+  link: Coursera-Stanford-ML-Python
   categories:
-  - Jekyll
-  - Ruby
-  content: This plug-in introduces the new tag `projectlist` to Jekyll. It loads all files in the `_projects` directory and renders the entries into a single tag response, thus avoiding the creation of separate posts.
+  - Python
+  - Kivy
+  - Machine Learning
+  content: This project contains a framework for submitting the standard coursera assignments for the Machine Learning Course in Python. This allows learners to explore scipy, panda and other powerful python libraries while submitting the assignments. A cross platform GUI is built using Kivy on top of this base interface which makes assignment submission and completion mobile friendly.
