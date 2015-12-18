@@ -1,8 +1,8 @@
 ---
-published: false
+layout: post
+title: Fighting the Demon
+published: true
 ---
-
-## Fighting the Demon
 
 Today, I was loitering along my vast city found myself in among the darkest part of the city and bore witness to a very dark and heinous crime- rape. The incident overwhelmed me so much that I needed  to form a definitive analysis and try to pinpoint the cause and prevention of any such incident in the future.
 
