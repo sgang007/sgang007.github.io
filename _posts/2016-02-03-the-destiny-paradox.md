@@ -12,6 +12,6 @@ Do we really know what we need? We don't even know the future so how can we ever
 
 >Generally, emotional, fun-loving and free thinking people never abstain from drinking. Now, if such a person is suddenly feeling depressed, their emotional side might get the better of them giving them the most comfortable choice of drowning their sorrow in pegs of whisky. A direct result of these 'comfortable decisions' can be cirrhosis of liver or some major illness. Then can we say, all fun loving people and free thinking people are destined to be drunkards?
 
-No, we cannot say anything like that. 
+No, we cannot say anything like that. It is because even though we have a destiny, we are not bound to it. This is callled the choice of Destiny.
 
 
