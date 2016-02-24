@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: The Choice of Destiny
+layout: post
 ---
 
 
