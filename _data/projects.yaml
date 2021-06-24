@@ -8,7 +8,7 @@
   content: Machine Learning pipeline to recognize patterns in the gait cycle of a person and re-identify the person in subsequent time frames even in presence of occlusion done in real time.
   
 - title: "Sangi1.0"
-  link: sangi1.0
+  link: https://contest.techbriefs.com/2015/entries/machinery-automation-robotics/5678?fbclid=IwAR2QZ3OMAFb0zxfqi5ecJA5Ymtq149ueSak9_ofTJtKi-_PU_iPFztqGjGY
   categories:
   - Indoor Navigation
   - SLAM
@@ -30,4 +30,4 @@
   - ROS
   - Embedded Electronics
   - LIDAR
-  content: Developed At BARC, Mumbai, this robot senses the environment using a 270 degree Hokuyo Laser scanner and localizes itself in an unknown environment using AMCL. It finally autonomously navigates in indoor environments using an A* path planning algorithm where heuristics. 
+  content: Developed At BARC, Mumbai, this robot senses the environment using a 270 degree Hokuyo Laser scanner and localizes itself in an unknown environment using AMCL. It finally autonomously navigates in indoor environments using an A* path planning algorithm where heuristics.
